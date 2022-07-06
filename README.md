@@ -1,9 +1,9 @@
 # Hi 👋, This is Oliver Holloway.
 
-- 🌐 Work as a **Full Stack Web Developer**
-- 📱 Concentrate in **JavaScript, React, Angular, Vue.js**
-- 👯 Interested Working On **Python** and **DevOps**
-- 📬 contact me here: **oliverfholloway@gmail.com**
+- 👨‍💻 I'm currently working as a **Full-stack Web Developer** and a searching for a **Full-time Job**. 
+- 🌱 I'm constantly learning: **React, Angular, Vue.js, Node.js, Express**.
+- 💙 Interests: **Games** and **Music**
+- 📬 contact me here: oliverfholloway@gmail.com
 
 
 ## ⚡ Technologies
